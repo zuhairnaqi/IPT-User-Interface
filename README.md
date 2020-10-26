@@ -1,3 +1,3 @@
 # IPT-User-Interface
 
-Check website at: https://github.com/imkaka/todo/pull/3
+Check website at: https://zuhairnaqi.github.io/IPT-User-Interface/
