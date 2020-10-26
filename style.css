@@ -98,3 +98,35 @@ footer > div {
 .list-group-item {
     background-color: #00b1e4;
 }
+
+.social-icons-container > li {
+    display: flex;
+    align-items: center;
+}
+.social-icons-container a {
+    font-size: 28px;
+    width: 35px;
+}
+
+.social-icons-container > li:hover {
+    color: gray;
+    cursor: pointer;
+}
+.social-icons-container a:hover {
+    color: gray;
+    text-decoration: none;
+}
+
+.fa-github {
+    color: #000;
+}
+
+.fa-facebook {
+    color: #3b5998;
+}
+
+.fa-youtube {
+    color: #f00;
+}
+
+
